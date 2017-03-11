@@ -1,6 +1,6 @@
-# React Weather App
+# Boilerplate React App
 
-Boilerplate React App
+Boilerplate template for all React app training
 
 ## Getting Started
 
