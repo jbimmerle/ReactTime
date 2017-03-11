@@ -1,6 +1,6 @@
-# Boilerplate React App
+# React Time App
 
-Boilerplate template for all React app training
+React-based timer and countdown app
 
 ## Getting Started
 
